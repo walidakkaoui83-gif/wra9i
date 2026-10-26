@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wra9i-silk.vercel.app/sitemap.xml
